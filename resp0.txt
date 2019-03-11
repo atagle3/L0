@@ -1,5 +1,3 @@
-﻿texto
-estoy actualizando el archivo en línea
 anton@DESKTOP-UJF1FNV MINGW64 ~/Desktop/L0 (master)
 $ history
     1  hola
@@ -79,4 +77,3 @@ $ history
    75  doskey /History
    76  History
    77  history
-
